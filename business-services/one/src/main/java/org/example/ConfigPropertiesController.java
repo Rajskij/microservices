@@ -3,11 +3,14 @@ package org.example;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * Controller just to check that service is running fine
+ */
 @RestController
 public class ConfigPropertiesController {
 
-    @GetMapping("/home-one")
+    @GetMapping("/test-one")
     public String getPropertyValue() {
-        return "home-one";
+        return "test-one";
     }
 }
