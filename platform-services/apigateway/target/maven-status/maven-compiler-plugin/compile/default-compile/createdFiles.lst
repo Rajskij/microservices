@@ -1,0 +1,6 @@
+org\example\ZuulConfiguration$LookupHandlerCallbackFilter.class
+org\example\ZuulConfiguration$ZuulPostProcessor.class
+org\example\ZuulConfiguration$LookupHandlerMethodInterceptor.class
+org\example\ZuulConfiguration.class
+org\example\UiApplication.class
+org\example\TestController.class
